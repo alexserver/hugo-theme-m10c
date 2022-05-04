@@ -8,6 +8,7 @@ html {
 
 body {
   margin: 0;
+  font-size: 14px;
   font-family: sans-serif;
   background: $dark-color;
   color: $light-color;
@@ -15,6 +16,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: $lightest-color;
+}
+
+h1 {
+  font-size: 1.5em;
 }
 
 a {
